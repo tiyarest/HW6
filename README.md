@@ -1,9 +1,7 @@
 # Chapter6
-Android基础UI开发
+完成一个基本的视频播放列表  
 
-app:课堂代码
+点击跳转到详情播放列表  
 
-demo:演示APK
 
-slide:课堂ppt
-
+待完成：给listview里面的每一个item定一个详情按钮，接口暴露给activity实现跳转
